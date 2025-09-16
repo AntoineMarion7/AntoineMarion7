@@ -1,3 +1,3 @@
 # CyberAnt
-![TryHackMe Badge](tryhackme-badge.png)
+![TryHackMe badge](tryhackme-badge.png)
 
