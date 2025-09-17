@@ -30,7 +30,7 @@
 
 ### :mailbox: Contact me
 - **Email**: [Send me an email](mailto:antoine.marion7@gmail.com)
-- **GitHub**: [CyberAnt](https://github.com/CyberAnt)
+- **GitHub**: [CyberAnt](https://github.com/AntoineMarion7)
 
 ---
 
