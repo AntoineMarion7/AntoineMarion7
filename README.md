@@ -13,7 +13,7 @@
 
 ---
 
-### :toolbox: Skills & Tools
+### :hammer_and_wrench: Skills & Tools
 - **Security:** Wireshark, TShark, Zeek, Burp, Nmap, Metasploit, Splunk    
 - **Scripting:** ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
 - **Platforms:** ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)   ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
