@@ -1,6 +1,7 @@
 <h1 align="left" id="macropower-title">👋: Hey! I'm Antoine </h1>
 <a href="https://tryhackme.com/p/Cyberant">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cyberant.png" alt="TryHackMe Badge" align="right" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cyberant.png?cache=1" alt="TryHackMe Badge" align="right" />
+  
 </a>
 
 ---
